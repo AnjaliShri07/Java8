@@ -3,7 +3,7 @@ package com.java8.programs.interview.GS;
 /*
  ** Instructions to candidate.
  **  1) Given an array of non-negative integers representing the elevations
- **     from the vertical cross section of a range of hills, determine how
+ **     from the vertical cross-section of a range of hills, determine how
  **     many units of snow could be captured between the hills.
  **
  **     See the example array and elevation map below.
